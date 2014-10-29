@@ -1,1 +1,1 @@
-# Respositorio git para el curso Git desdecero
+# Respositorio git para el curso Git desde cero
